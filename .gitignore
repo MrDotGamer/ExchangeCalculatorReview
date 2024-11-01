@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CurrencyAppTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/CurrencyAppTests/bin/Debug/net8.0/CurrencyApp.runtimeconfig.json
+/CurrencyAppTests/bin/Debug/net8.0/CurrencyAppTests.deps.json
+/CurrencyAppTests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/.vs/ExchangeCalculatorReview
