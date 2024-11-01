@@ -9,5 +9,5 @@
 /.vs/ExchangeCalculatorReview
 bin/Debug/net8
 obj/
-CurrencyApp\bin\*
+CurrencyApp\bin\
 
