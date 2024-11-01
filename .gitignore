@@ -7,3 +7,6 @@
 /CurrencyAppTests/bin/Debug/net8.0/CurrencyAppTests.deps.json
 /CurrencyAppTests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
 /.vs/ExchangeCalculatorReview
+bin/Debug/net8
+obj/
+
