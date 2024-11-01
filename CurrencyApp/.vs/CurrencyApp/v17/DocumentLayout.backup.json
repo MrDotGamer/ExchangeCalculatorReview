@@ -1,0 +1,574 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\infrastructure\\currencycodesfromfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:infrastructure\\currencycodesfromfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\currencyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:currencyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\ui\\interfaces\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:ui\\interfaces\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\ui\\interfaces\\iparameterparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:ui\\interfaces\\iparameterparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\ui\\interfaces\\iexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:ui\\interfaces\\iexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\ui\\interfaces\\icalculatorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:ui\\interfaces\\icalculatorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\ui\\extensions\\exchangeserviceproviderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:ui\\extensions\\exchangeserviceproviderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\infrastructure\\exchangeraterepomock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:infrastructure\\exchangeraterepomock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\core\\models\\exchangetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:core\\models\\exchangetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\core\\models\\currencyrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:core\\models\\currencyrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\core\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:core\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\services\\parameterparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\services\\parameterparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\services\\exchangeparametervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\services\\exchangeparametervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\services\\exchangecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\services\\exchangecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\services\\calclatorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\services\\calclatorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\services\\availablecurrencycodecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\services\\availablecurrencycodecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\services\\argumenthandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\services\\argumenthandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\models\\exchangeoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\models\\exchangeoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\interfaces\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\interfaces\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\interfaces\\icalculatoroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\interfaces\\icalculatoroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\interfaces\\icache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\interfaces\\icache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\interfaces\\iargumenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\interfaces\\iargumenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\exceptions\\parsecurrencyargumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\exceptions\\parsecurrencyargumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\exceptions\\alphabeticcountrycodevalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\exceptions\\alphabeticcountrycodevalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\application\\validationhandlers\\argumentsvalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:application\\validationhandlers\\argumentsvalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\infrastructure\\interfaces\\icurrencycodesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:infrastructure\\interfaces\\icurrencycodesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|c:\\users\\vgds7\\source\\repos\\exchangecalculatorreview\\currencyapp\\infrastructure\\interfaces\\iexchangeraterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56A8D2D-A67E-40E1-B0ED-B6DEB291B83D}|CurrencyApp.csproj|solutionrelative:infrastructure\\interfaces\\iexchangeraterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vgds7\\source\\repos\\CurrencyAppTests\\Application\\Services\\CalculatorTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vgds7\\source\\repos\\CurrencyAppTests\\CurrencyAppTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vgds7\\source\\repos\\CurrencyAppTests\\Application\\Handlers\\ArgumentsValidationHandlerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\CurrencyAppTests\\Application\\Services\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\CurrencyAppTests\\Application\\Services\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\CurrencyAppTests\\Application\\Services\\CalculatorTests.cs",
+              "RelativeToolTip": "..\\..\\CurrencyAppTests\\Application\\Services\\CalculatorTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwEQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:59:49.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CurrencyAppTests.csproj",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\CurrencyAppTests\\CurrencyAppTests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\CurrencyAppTests\\CurrencyAppTests.csproj",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\CurrencyAppTests\\CurrencyAppTests.csproj",
+              "RelativeToolTip": "..\\..\\CurrencyAppTests\\CurrencyAppTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T07:42:26.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ArgumentsValidationHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\CurrencyAppTests\\Application\\Handlers\\ArgumentsValidationHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\CurrencyAppTests\\Application\\Handlers\\ArgumentsValidationHandlerTests.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\CurrencyAppTests\\Application\\Handlers\\ArgumentsValidationHandlerTests.cs",
+              "RelativeToolTip": "..\\..\\CurrencyAppTests\\Application\\Handlers\\ArgumentsValidationHandlerTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:37:20.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyApp.csproj",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\CurrencyApp.csproj",
+              "RelativeDocumentMoniker": "CurrencyApp.csproj",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\CurrencyApp.csproj",
+              "RelativeToolTip": "CurrencyApp.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T07:32:13.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IToken.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Interfaces\\IToken.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IToken.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Interfaces\\IToken.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:41:20.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExchangeToken.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Core\\Models\\ExchangeToken.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\ExchangeToken.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Core\\Models\\ExchangeToken.cs",
+              "RelativeToolTip": "Core\\Models\\ExchangeToken.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:32:58.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExchangeOperation.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Models\\ExchangeOperation.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\ExchangeOperation.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Models\\ExchangeOperation.cs",
+              "RelativeToolTip": "Application\\Models\\ExchangeOperation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:16:22.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICalculatorOperation.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Interfaces\\ICalculatorOperation.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ICalculatorOperation.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Interfaces\\ICalculatorOperation.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ICalculatorOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:15:14.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICache.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Interfaces\\ICache.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ICache.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Interfaces\\ICache.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ICache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:40:48.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyCodesFromFile.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Infrastructure\\CurrencyCodesFromFile.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CurrencyCodesFromFile.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Infrastructure\\CurrencyCodesFromFile.cs",
+              "RelativeToolTip": "Infrastructure\\CurrencyCodesFromFile.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:27:47.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExchangeServiceProviderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\UI\\Extensions\\ExchangeServiceProviderExtension.cs",
+              "RelativeDocumentMoniker": "UI\\Extensions\\ExchangeServiceProviderExtension.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\UI\\Extensions\\ExchangeServiceProviderExtension.cs",
+              "RelativeToolTip": "UI\\Extensions\\ExchangeServiceProviderExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:17:43.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExchangeRateService.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\ExchangeRateService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ExchangeRateService.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\ExchangeRateService.cs",
+              "RelativeToolTip": "Application\\Services\\ExchangeRateService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:13:35.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IExchangeRateService.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\UI\\Interfaces\\IExchangeRateService.cs",
+              "RelativeDocumentMoniker": "UI\\Interfaces\\IExchangeRateService.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\UI\\Interfaces\\IExchangeRateService.cs",
+              "RelativeToolTip": "UI\\Interfaces\\IExchangeRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:12:06.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\app.config",
+              "RelativeDocumentMoniker": "app.config",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\app.config",
+              "RelativeToolTip": "app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-25T07:10:23.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurrencyRate.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Core\\Models\\CurrencyRate.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\CurrencyRate.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Core\\Models\\CurrencyRate.cs",
+              "RelativeToolTip": "Core\\Models\\CurrencyRate.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:42:30.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExchangeRateRepoMock.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Infrastructure\\ExchangeRateRepoMock.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ExchangeRateRepoMock.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Infrastructure\\ExchangeRateRepoMock.cs",
+              "RelativeToolTip": "Infrastructure\\ExchangeRateRepoMock.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:10:20.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IExchangeRateRepo.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Infrastructure\\Interfaces\\IExchangeRateRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IExchangeRateRepo.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Infrastructure\\Interfaces\\IExchangeRateRepo.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IExchangeRateRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:09:01.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AvailableCurrencyCodeCache.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\AvailableCurrencyCodeCache.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AvailableCurrencyCodeCache.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\AvailableCurrencyCodeCache.cs",
+              "RelativeToolTip": "Application\\Services\\AvailableCurrencyCodeCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:39:57.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICurrencyCodesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Infrastructure\\Interfaces\\ICurrencyCodesRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\ICurrencyCodesRepo.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Infrastructure\\Interfaces\\ICurrencyCodesRepo.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\ICurrencyCodesRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:37:34.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Core\\Models\\Currency.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Currency.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Core\\Models\\Currency.cs",
+              "RelativeToolTip": "Core\\Models\\Currency.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwEYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:23:52.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExchangeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\ExchangeCalculator.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ExchangeCalculator.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\ExchangeCalculator.cs",
+              "RelativeToolTip": "Application\\Services\\ExchangeCalculator.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:11:04.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CalclatorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\CalclatorFactory.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CalclatorFactory.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\CalclatorFactory.cs",
+              "RelativeToolTip": "Application\\Services\\CalclatorFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:09:25.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICalculatorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\UI\\Interfaces\\ICalculatorFactory.cs",
+              "RelativeDocumentMoniker": "UI\\Interfaces\\ICalculatorFactory.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\UI\\Interfaces\\ICalculatorFactory.cs",
+              "RelativeToolTip": "UI\\Interfaces\\ICalculatorFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:07:39.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:42:31.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AlphabeticCountryCodeValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Exceptions\\AlphabeticCountryCodeValidationException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\AlphabeticCountryCodeValidationException.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Exceptions\\AlphabeticCountryCodeValidationException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\AlphabeticCountryCodeValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:39:26.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ParseCurrencyArgumentsException.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Exceptions\\ParseCurrencyArgumentsException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\ParseCurrencyArgumentsException.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Exceptions\\ParseCurrencyArgumentsException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\ParseCurrencyArgumentsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:35:35.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ArgumentsValidationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\ValidationHandlers\\ArgumentsValidationHandler.cs",
+              "RelativeDocumentMoniker": "Application\\ValidationHandlers\\ArgumentsValidationHandler.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\ValidationHandlers\\ArgumentsValidationHandler.cs",
+              "RelativeToolTip": "Application\\ValidationHandlers\\ArgumentsValidationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:24:14.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IArgumentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Interfaces\\IArgumentHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IArgumentHandler.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Interfaces\\IArgumentHandler.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IArgumentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:23:19.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ArgumentHandlerService.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\ArgumentHandlerService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ArgumentHandlerService.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\ArgumentHandlerService.cs",
+              "RelativeToolTip": "Application\\Services\\ArgumentHandlerService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:21:49.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExchangeParameterValidator.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\ExchangeParameterValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ExchangeParameterValidator.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\ExchangeParameterValidator.cs",
+              "RelativeToolTip": "Application\\Services\\ExchangeParameterValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:16:12.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IValidator.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\UI\\Interfaces\\IValidator.cs",
+              "RelativeDocumentMoniker": "UI\\Interfaces\\IValidator.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\UI\\Interfaces\\IValidator.cs",
+              "RelativeToolTip": "UI\\Interfaces\\IValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:15:17.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ParameterParser.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\ParameterParser.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ParameterParser.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Application\\Services\\ParameterParser.cs",
+              "RelativeToolTip": "Application\\Services\\ParameterParser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:03:21.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IParameterParser.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\UI\\Interfaces\\IParameterParser.cs",
+              "RelativeDocumentMoniker": "UI\\Interfaces\\IParameterParser.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\UI\\Interfaces\\IParameterParser.cs",
+              "RelativeToolTip": "UI\\Interfaces\\IParameterParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:02:00.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vgds7\\source\\repos\\ExchangeCalculatorReview\\CurrencyApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:56:27.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
